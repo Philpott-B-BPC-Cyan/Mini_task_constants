@@ -8,7 +8,7 @@ define("Firstname","Brad");
 define("Lastname","Philpott");
 define("FavSubject","Law");
 
-$age=17
+$age=17;
 
 echo Firstname;
 echo Lastname;
