@@ -16,7 +16,9 @@ echo Lastname;
 echo "<br>";
 echo FavSubject;
 echo "<br>";
-echo $age + "5";
+echo "My age is " + $age
+echo "<br>";
+echo "my age plus five is ... " $age + "5";
 
 ?>
   
