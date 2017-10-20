@@ -19,7 +19,7 @@ echo "<br>";
 echo "My age is ";
 echo  $age;
 echo "<br>";
-echo "my age plus five is ... ";
+echo "My age plus five is ... ";
 echo $age + "5";
 
 ?>
