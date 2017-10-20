@@ -1,3 +1,7 @@
+<html>
+
+<body>
+
 <?php
 
 define ("Firstname", "Brad",true);
@@ -12,3 +16,7 @@ echo FavSubject;
 echo $age + "5";
 
 ?>
+  
+</body>
+  
+</html>
