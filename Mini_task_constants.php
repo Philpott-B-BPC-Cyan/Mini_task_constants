@@ -4,9 +4,9 @@
 
 <?php
 
-define("Firstname","Brad",true);
-define("Lastname","Philpott",true);
-define("FavSubject","Law",true);
+define("Firstname","Brad");
+define("Lastname","Philpott");
+define("FavSubject","Law");
 
 $age=17
 
